@@ -1,0 +1,4 @@
+ME Resolution
+- Konsisten membuat project mingguan atau bulanan
+- Membuat chat bot sendiri
+- Membuat Web Jualan sendiri
