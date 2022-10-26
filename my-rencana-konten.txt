@@ -1,0 +1,8 @@
+RENCANA KONTEN
+
+-Javascript
+* ES 6
+* Framework Javascript
+-PHP Frameworks
+-Interview
+-Vlog
