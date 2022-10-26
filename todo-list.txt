@@ -1,0 +1,4 @@
+Todo List project yang harus dilakukan
+1. Membuat fitur asd
+2. Membuat fitur zxc
+3. Membuat fitur 123
