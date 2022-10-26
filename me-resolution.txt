@@ -2,3 +2,6 @@ ME Resolution
 - Konsisten membuat project mingguan atau bulanan
 - Membuat chat bot sendiri
 - Membuat Web Jualan sendiri
+- Kerja sampingan dengan teman
+- Bisa menggunakan bahasa pemrograman java
+- Bisa membuat aplikasi android dengan android studio
